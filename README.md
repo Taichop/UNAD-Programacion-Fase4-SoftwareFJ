@@ -10,8 +10,8 @@ Desarrollar una aplicación orientada a objetos en Python, sin motor de base de 
 | Módulo | Responsable | Rama Asignada (`Branch`) | Estado |
 | :--- | :--- | :--- | :--- |
 | **1. Base, Logs y Excepciones** | Juan Pablo Jurado Vasquez (`@Taichop`) | `feature/modulo-base-juan` | Beta |
-| **2. Gestión de Clientes** | *Por asignar* | `feature/modulo-clientes` | Pendiente |
-| **3. Servicio Base y Reserva de Salas** | *Por asignar* | `feature/modulo-salas` | Pendiente |
+| **2. Gestión de Clientes** | WILLIAM ABRAHAM SANCHEZ OBANDO (`@williamsanchez93`) | `feature/modulo-clientes` | En desarrollo |
+| **3. Servicio Base y Reserva de Salas** |  LEIDY JOHANA MORA RODRIGUEZ (`@leidymora26-blip`) | `feature/modulo-salas` | En desarrollo |
 | **4. Alquiler de Equipos y Asesorías** | *Por asignar* | `feature/modulo-equipos-asesorias` | Pendiente |
 | **5. Reservas y 10 Simulaciones** | *Por asignar* | `feature/modulo-reservas-simulaciones` | Pendiente |
 
