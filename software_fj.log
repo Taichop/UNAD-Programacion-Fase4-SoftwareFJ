@@ -1,0 +1,52 @@
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: CLI-01
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [validar_datos] - Cliente CLI-01 (Juan Pablo Jurado) validado correctamente.
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: CLI-02
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [validar_datos] - Cliente CLI-02 (Laura Gómez) validado correctamente.
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: SAL-01
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: SAL-02
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: EQP-01
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: ASE-01
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-01
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [confirmar] - Reserva RES-01 CONFIRMADA | Total: $240,000.00
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-01 (Estado: CONFIRMADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-02
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [confirmar] - Reserva RES-02 CONFIRMADA | Total: $360,000.00
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-02 (Estado: CONFIRMADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-03
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [confirmar] - Reserva RES-03 CONFIRMADA | Total: $290,000.00
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-03 (Estado: CONFIRMADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-04
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [confirmar] - Reserva RES-04 CONFIRMADA | Total: $280,500.00
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-04 (Estado: CONFIRMADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-05
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - INFO - [confirmar] - Reserva RES-05 CONFIRMADA | Total: $164,000.00
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-05 (Estado: CONFIRMADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-06
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - ERROR - [validar_datos] - Servicio SAL-02 no disponible para reserva RES-06.
+2026-11-22 10:17:58 - ERROR - [confirmar] - Reserva RES-06 rechazada: El servicio 'Sala Mantenimiento' no está disponible.
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-06 (Estado: RECHAZADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-07
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - ERROR - [confirmar] - Reserva RES-07 rechazada: Las horas de reserva de sala deben ser mayores a cero.
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-07 (Estado: RECHAZADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: RES-08
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - ERROR - [confirmar] - Reserva RES-08 rechazada: El descuento debe estar entre 0% (0.0) y 50% (0.5).
+2026-11-22 10:17:58 - INFO - [confirmar] - Cierre de transacción para reserva RES-08 (Estado: RECHAZADA).
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Entidad inicializada correctamente con ID: CLI-99
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
+2026-11-22 10:17:58 - ERROR - [correo] - Correo inválido para cliente CLI-99: 'correo_invalido'
+2026-11-22 10:17:58 - ERROR - [_asignar_id_seguro] - Fallo al validar ID '   ': El identificador debe ser una cadena de texto no vacía.
+2026-11-22 10:17:58 - INFO - [_asignar_id_seguro] - Finalizó el proceso de verificación de identificador de entidad.
